@@ -1,4 +1,4 @@
-=======
+### Code for paper: End-to-End Cascaded Image Restoration and Object Detection for Rain and Fog Conditions
 # Training Code Repository
 
 This repository contains the code used during the training process. Please note that this is a work in progress, and the author will further organize and refactor the code to improve readability and maintainability. Stay tuned for updates!
