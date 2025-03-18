@@ -1,0 +1,9 @@
+Motorcycle
+Car
+Bus
+L_truck
+XL_truck
+XXL_truck
+XXXL_truck
+Container
+Car_carrier
